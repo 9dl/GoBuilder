@@ -1,4 +1,4 @@
-module gobuilder
+module github.com/9dl/GoBuilder
 
 go 1.23.2
 

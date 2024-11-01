@@ -14,7 +14,7 @@
 **Installation**:
 You can install GoBuilder using the following command:
    ```bash
-   go install github.com/9dl/gobuilder@latest
+   go install github.com/9dl/GoBuilder@latest
    ```
 
 ## Usage
